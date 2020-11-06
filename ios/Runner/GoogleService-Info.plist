@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>79878069573-duddi58fe0kel89v4jt8grn0b3kiu22r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.79878069573-duddi58fe0kel89v4jt8grn0b3kiu22r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>79878069573-9t75ai4fqnp42sq5s82do2q01tqqe1l1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7OumabF-pnzX7XoRgWN2IgibsFk2yYGY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>79878069573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appcomida</string>
+	<key>PROJECT_ID</key>
+	<string>glossy-surge-577</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glossy-surge-577.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:79878069573:ios:04f18c749d624e93d5f22c</string>
+	<key>DATABASE_URL</key>
+	<string>https://glossy-surge-577.firebaseio.com</string>
+</dict>
+</plist>

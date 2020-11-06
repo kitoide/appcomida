@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "79878069573",
+    "firebase_url": "https://glossy-surge-577.firebaseio.com",
+    "project_id": "glossy-surge-577",
+    "storage_bucket": "glossy-surge-577.appspot.com"
+  },
+  "client": [
+   
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79878069573:android:4a0742f7c2252246d5f22c",
+        "android_client_info": {
+          "package_name": "com.example.appcomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79878069573-8o903lk5bq67u62kqrh12astt7eeocvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcomida",
+            "certificate_hash": "497b4db2db22be8aec3b5ed5cae64eb517f1030c"
+          }
+        },
+        {
+          "client_id": "79878069573-6gd39nv2r0j0srkiu750rk8374vv8nhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTMNr6d_7bddtrQbTE6_mP8mT9ZCVvwJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79878069573-6gd39nv2r0j0srkiu750rk8374vv8nhg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79878069573-duddi58fe0kel89v4jt8grn0b3kiu22r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appcomida"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
